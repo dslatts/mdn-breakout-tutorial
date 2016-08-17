@@ -1,2 +1,2 @@
 # mdn-breakout-tutorial
-learning github
+Learning github and atom
